@@ -1,0 +1,7 @@
+Academic Projects
+Boolean Algebra Simplifier and Calculator
+Developed a program to simplify and evaluate Boolean expressions using Python and SymPy.
+
+•	Built a Boolean algebra calculator that simplifies expressions and generates truth tables.
+•	Implemented symbolic simplifications using Boolean algebra laws.
+
